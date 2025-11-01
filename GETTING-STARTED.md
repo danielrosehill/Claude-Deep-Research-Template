@@ -1,11 +1,11 @@
 # Getting Started with Claude Deep Research
 
-## Understanding the Model
+## Understanding the Concept
 
 Before diving into setup, you may want to learn about the conceptual framework:
 
-- **📖 Model Documentation**: [Claude-Deep-Research-Model Repository](https://github.com/danielrosehill/Claude-Deep-Research-Model) - Read about the design and methodology
-- **🎧 Audio Explanation**: [Spotify Podcast Episode](https://open.spotify.com/episode/0AuchKOm47XdKSGDePfEJq?si=4Q2Gl12sQtej6eT1oo9RDQ) - Listen to a detailed discussion of the model
+- **Planning Notes Repository**: [Claude-Deep-Research-Model Repository](https://github.com/danielrosehill/Claude-Deep-Research-Model) - Planning and development notes for the concept behind this implementation
+- **Audio Explanation**: [Spotify Podcast Episode](https://open.spotify.com/episode/0AuchKOm47XdKSGDePfEJq?si=4Q2Gl12sQtej6eT1oo9RDQ) - Listen to a detailed discussion of the concept
 
 ## First Time Setup
 

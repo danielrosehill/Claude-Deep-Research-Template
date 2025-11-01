@@ -5,11 +5,11 @@
 [![GitHub Master Index](https://img.shields.io/badge/GitHub-Master_Index-green?logo=github)](https://github.com/danielrosehill/Github-Master-Index)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-A production-ready template for conducting systematic, comprehensive research using Claude Code following the [Deep Research Model](https://github.com/danielrosehill/Claude-Deep-Research-Model).
+A production-ready template for conducting systematic, comprehensive research using Claude Code. This implementation leverages an organized flow of data from previous outputs into persistent context, enabling iterative and cumulative research workflows.
 
 ## What is This?
 
-This template provides a complete, structured workflow for using Claude Code as a deep research assistant. Instead of ad-hoc conversations, this model:
+This template provides a complete, structured workflow for using Claude Code as a deep research assistant. Instead of ad-hoc conversations, this approach:
 
 - **Systematizes research** with clear phases and workflows
 - **Documents everything** in organized directories
@@ -17,13 +17,13 @@ This template provides a complete, structured workflow for using Claude Code as 
 - **Builds on previous work** through structured context
 - **Scales from quick investigations to comprehensive studies**
 
-## Learn About the Model
+## Background and Concept
 
-**📖 Model Concept Repository**: [Claude-Deep-Research-Model](https://github.com/danielrosehill/Claude-Deep-Research-Model)
-Explore the conceptual framework and design thinking behind this research model.
+**Planning and Development Notes**: [Claude-Deep-Research-Model Repository](https://github.com/danielrosehill/Claude-Deep-Research-Model)
+This repository contains my planning and development notes for the concept behind this implementation, which attempts to leverage an organized flow of data from previous outputs into persistent context, among other features.
 
-**🎧 Concept Discussion Podcast**: [Listen on Spotify](https://open.spotify.com/episode/0AuchKOm47XdKSGDePfEJq?si=4Q2Gl12sQtej6eT1oo9RDQ)
-Hear the model explained and discussed in detail.
+**Concept Discussion Podcast**: [Listen on Spotify](https://open.spotify.com/episode/0AuchKOm47XdKSGDePfEJq?si=4Q2Gl12sQtej6eT1oo9RDQ)
+Audio discussion explaining the concept in detail.
 
 ## Quick Start
 
