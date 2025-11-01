@@ -1,0 +1,23 @@
+# Research artifacts (comment out lines if you want to track these)
+scratchpad/*
+!scratchpad/.gitkeep
+
+# Optionally ignore individual outputs during research
+# outputs/individual/*
+# !outputs/individual/.gitkeep
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.bak
+.temp/
